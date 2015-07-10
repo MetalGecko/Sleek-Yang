@@ -21,7 +21,7 @@ https://github.com/MetalGecko/Sleek-Yang/new/master#  "speedpadBlue": "http://i.
 });
 
 //If you don't want to have the flag displayed inside the FC add this "/*" at the beginning of line 25 and this "*/" after the semicolon in line 34.
-//This last part of the userscript was made by /u/datblizzard it forcesthe flag to be inside the FC's ball.
+//This last part of the userscript was made by /u/datblizzard it forces the flag to be inside the FC's ball.
 tagpro.ready(function() {
     var upf = tagpro.renderer.updatePlayerFlag;
     tagpro.renderer.updatePlayerFlag = function(player) {
