@@ -15,7 +15,7 @@ tagpro.loadAssets({
   //"tiles": "http://i.imgur.com/1BncASl.png", //Remove the "//" at the beginning of the line to have a grid . DO NOT FORGET TO ADD "//" to the first line if you choose the grid-version.
   "speedpad": "http://i.imgur.com/iDbBt1W.png",
   "speedpadRed": "http://i.imgur.com/9SAuKuZ.png",
-https://github.com/MetalGecko/Sleek-Yang/new/master#  "speedpadBlue": "http://i.imgur.com/kU9FeSt.png",
+  "speedpadBlue": "http://i.imgur.com/kU9FeSt.png",
   "portal": "https://i.imgur.com/elIWwuA.png",
   "splats": "http://i.imgur.com/AqXkJCJ.png"
 });
